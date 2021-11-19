@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@700&display=swap');
+.NS{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('NSbg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.AU{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('Aus.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.NA{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('NAbg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.ASIA{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('Asiabg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+.E{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('Europe.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.AFRICA{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('africabg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.ASIAHE{
+    font-family: 'Zen Old Mincho', serif;
+}
+.A{
+    padding-top: 200px;
+    width: auto;
+    height: 950px;
+    background-image: url('Antarctica.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.Af1{
+    color: black;
+    font-size: 50px;
+    padding-top: 20px;
+    font-family: 'Amatic SC', cursive;
+}
+li{font-family: 'Amatic SC', cursive; font-weight: bold; color: black}
+ol {display: inline-block; text-align: left; }
+.A2d{
+    max-width: 1000px;
+    min-width: 100px;
+    min-height: 500px;
+    max-height: 5000px;
+    color: white;
+    text-align: center;
+   
+    background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 12.5px );
+-webkit-backdrop-filter: blur( 12.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+
+
+
+}
